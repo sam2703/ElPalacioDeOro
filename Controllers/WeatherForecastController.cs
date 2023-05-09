@@ -28,6 +28,7 @@ namespace ElPalacioDeOro.Controllers
                 Summary = Summaries[Random.Shared.Next(Summaries.Length)]
             })
             .ToArray();
+            Console.WriteLine("Este es un mensaje nuevo ");
         }
     }
 }
