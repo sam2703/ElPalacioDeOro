@@ -1,0 +1,11 @@
+C:\ProyectoTienda\PalacioDeOro\ElPalacio.Domain\bin\Debug\net7.0\ElPalacio.Domain.deps.json
+C:\ProyectoTienda\PalacioDeOro\ElPalacio.Domain\bin\Debug\net7.0\ElPalacio.Domain.dll
+C:\ProyectoTienda\PalacioDeOro\ElPalacio.Domain\bin\Debug\net7.0\ElPalacio.Domain.pdb
+C:\ProyectoTienda\PalacioDeOro\ElPalacio.Domain\obj\Debug\net7.0\ElPalacio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoTienda\PalacioDeOro\ElPalacio.Domain\obj\Debug\net7.0\ElPalacio.Domain.AssemblyInfoInputs.cache
+C:\ProyectoTienda\PalacioDeOro\ElPalacio.Domain\obj\Debug\net7.0\ElPalacio.Domain.AssemblyInfo.cs
+C:\ProyectoTienda\PalacioDeOro\ElPalacio.Domain\obj\Debug\net7.0\ElPalacio.Domain.csproj.CoreCompileInputs.cache
+C:\ProyectoTienda\PalacioDeOro\ElPalacio.Domain\obj\Debug\net7.0\ElPalacio.Domain.dll
+C:\ProyectoTienda\PalacioDeOro\ElPalacio.Domain\obj\Debug\net7.0\refint\ElPalacio.Domain.dll
+C:\ProyectoTienda\PalacioDeOro\ElPalacio.Domain\obj\Debug\net7.0\ElPalacio.Domain.pdb
+C:\ProyectoTienda\PalacioDeOro\ElPalacio.Domain\obj\Debug\net7.0\ref\ElPalacio.Domain.dll
